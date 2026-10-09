@@ -2,40 +2,35 @@
 
 **Last updated:** October 9, 2026
 
-This Privacy Policy explains how **Kalon** (the "App") handles information when you use it.
+This Privacy Policy describes how your information is collected, used, and handled when you use **Kalon** (the "App").
 
-## 1. Information We Collect
+## 1. Information We Collect and Service Scope
 
-- **Personal information:** We do not collect, store, or transmit any personally identifiable information, such as your name, address, email address, or phone number.
-- **Device and usage information:** The App works locally on your device. We do not collect telemetry, location data, or usage statistics.
+- **Notification processing:** The App requires notification access to work. When a WhatsApp or WhatsApp Business notification arrives, the App reads its title (sender or group name) and message text on your device, only to check whether it matches the name you chose. If it matches, the App plays your chosen vibration pattern.
+- **No storage or transmission:** This check happens entirely on your device, in real time. Notification content is not saved, logged, uploaded, or shared with anyone. Notifications from other apps are ignored.
+- **Your settings:** The name and vibration pattern you choose are saved only in the App's private storage on your device.
+- **Personal data:** We do not collect, store, or share any personally identifiable information.
 
-## 2. Permissions and Device Access
+## 2. Third-Party Disclaimer
 
-Kalon uses the following permissions only to provide its core feature, playing the vibration pattern you choose when a notification arrives:
+- **No affiliation:** Kalon is an independent application developed to enhance local device vibration feedback. The App is not affiliated with, associated with, authorized by, endorsed by, or in any way officially connected to WhatsApp LLC, Meta Platforms, Inc., or any of their subsidiaries or affiliates.
+- **Trademarks:** The name "WhatsApp" and related names, marks, emblems, and images are registered trademarks of their respective owners.
 
-- **Notification access:** lets the App detect that a notification has arrived so it can trigger your chosen vibration pattern. The App does not upload, share, or sell the content of your notifications.
-- **Vibration:** lets the App vibrate your device.
+## 3. Permissions and Device Access
 
-No data accessed through these permissions is uploaded to external servers or shared with third parties.
+- **Notification Listener permission** (`BIND_NOTIFICATION_LISTENER_SERVICE`): used solely to detect WhatsApp and WhatsApp Business notifications and match them against the name you chose, so that your vibration pattern can be played.
+- **Vibration control** (`VIBRATE`): used solely to play custom vibration patterns.
 
-## 3. Third-Party Services
+## 4. Children's Privacy
 
-The App does not include third-party tracking, analytics SDKs, or advertising networks.
+The App does not knowingly collect or request any personal information from children under the age of 13.
 
-## 4. Data Security
-
-All App data and settings stay on your device, so their security relies on your device's operating system protections.
-
-## 5. Children's Privacy
-
-The App does not knowingly collect personal information from children under the age of 13.
-
-## 6. Changes to This Privacy Policy
+## 5. Changes to This Privacy Policy
 
 We may update this policy from time to time. Any changes will be posted on this page, with a new "Last updated" date.
 
-## 7. Contact Us
+## 6. Contact Us
 
-If you have questions or suggestions about this Privacy Policy, contact us at:
+If you have any questions or feedback about this Privacy Policy, contact us at:
 
 **Email:** abhinavdev922@gmail.com
