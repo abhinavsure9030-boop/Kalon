@@ -6,7 +6,7 @@ This Privacy Policy describes how your information is collected, used, and handl
 
 ## 1. Information We Collect and Service Scope
 
-- **Notification processing:** The App requires notification access to work. When a WhatsApp or WhatsApp Business notification arrives, the App reads its title (sender or group name) and message text on your device, only to check whether it matches the name you chose. If it matches, the App plays your chosen vibration pattern.
+- **Notification processing:** The App requires notification access to work. When a WhatsApp or WhatsApp Business notification arrives, the App reads its title (sender or group name) and message text preview on your device, only to check whether it matches the name you chose. If it matches, the App plays your chosen vibration pattern.
 - **No storage or transmission:** This check happens entirely on your device, in real time. Notification content is not saved, logged, uploaded, or shared with anyone. Notifications from other apps are ignored.
 - **Your settings:** The name and vibration pattern you choose are saved only in the App's private storage on your device.
 - **Personal data:** We do not collect, store, or share any personally identifiable information.
